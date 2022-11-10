@@ -1,6 +1,6 @@
 user_name = input('enter your name:  ')
 
-my_name = 'Rui'
+my_name = 'Rui FS'
 
 str_statement = "Hello {}. My name is {}."
 
